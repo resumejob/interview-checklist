@@ -1,5 +1,6 @@
 # Interview Preparation Checklist
-A checklist for software engineering interview preparation
+
+**You can duplicate this template in [Notion Page](https://striped-galliform-f8d.notion.site/Interview-Preparation-Checklist-ad0bf65af8874b13b2ad187adcca3706?pvs=4) for free**
 
 ## One Day Before Interview
 - [ ] ⚠️  Confirm interview details: Review the interview time, date, and platform to ensure you have the correct information and avoid any scheduling misunderstandings.
